@@ -1,4 +1,4 @@
-# CatlogAPI
+# Ocelot API Gateway Demo
 Its a demo project that demonstrate the process of using Ocelot Gateway as a gateway to access multiple isolated microservices in SOA. 
 
 Steps to follow.
