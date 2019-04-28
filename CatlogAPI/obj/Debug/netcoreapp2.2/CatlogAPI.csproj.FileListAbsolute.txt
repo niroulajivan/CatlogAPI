@@ -1,0 +1,13 @@
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\bin\Debug\netcoreapp2.2\CatlogAPI.deps.json
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\bin\Debug\netcoreapp2.2\CatlogAPI.runtimeconfig.json
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\bin\Debug\netcoreapp2.2\CatlogAPI.runtimeconfig.dev.json
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\bin\Debug\netcoreapp2.2\CatlogAPI.dll
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\bin\Debug\netcoreapp2.2\CatlogAPI.pdb
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.csproj.CoreCompileInputs.cache
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.RazorAssemblyInfo.cache
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.RazorAssemblyInfo.cs
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.AssemblyInfoInputs.cache
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.AssemblyInfo.cs
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.dll
+C:\Users\jivan\source\repos\CatlogAPI\CatlogAPI\obj\Debug\netcoreapp2.2\CatlogAPI.pdb

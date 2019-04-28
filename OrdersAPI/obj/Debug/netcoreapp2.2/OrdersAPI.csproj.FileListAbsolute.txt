@@ -1,0 +1,14 @@
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.deps.json
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.runtimeconfig.json
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.runtimeconfig.dev.json
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.dll
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.pdb
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.csprojAssemblyReference.cache
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.csproj.CoreCompileInputs.cache
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.RazorAssemblyInfo.cache
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.RazorAssemblyInfo.cs
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.AssemblyInfoInputs.cache
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.AssemblyInfo.cs
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.dll
+C:\Users\jivan\source\repos\CatlogAPI\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.pdb

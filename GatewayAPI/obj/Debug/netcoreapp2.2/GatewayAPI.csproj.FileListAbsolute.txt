@@ -1,0 +1,14 @@
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.deps.json
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.runtimeconfig.json
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.runtimeconfig.dev.json
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.dll
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.csprojAssemblyReference.cache
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.csproj.CoreCompileInputs.cache
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.RazorAssemblyInfo.cache
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.RazorAssemblyInfo.cs
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.AssemblyInfoInputs.cache
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.AssemblyInfo.cs
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.pdb
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.dll
+C:\Users\jivan\source\repos\CatlogAPI\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.pdb

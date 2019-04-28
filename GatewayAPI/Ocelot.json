@@ -1,0 +1,34 @@
+{
+  "ReRoutes": [
+    // Catalog Service Route
+    {
+      "DownstreamPathTemplate": "/api/currency/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ],
+      "UpstreamPathTemplate": "/catlog-api/currency/",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    // Order Service Route
+    {
+      "DownstreamPathTemplate": "/api/orders/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "UpstreamPathTemplate": "/orders-api/orders/",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:7000"
+  }
+
+}
